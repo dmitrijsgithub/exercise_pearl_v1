@@ -33,7 +33,7 @@ For MySQL, you'll need to execute the SQL script in the
 4.INSTALLIG INSTRUCTIONS
 
 Clone the repository:
-clone https://github.com/dmitrijsgithub/exercise_pearl.git
+clone https://github.com/dmitrijsgithub/exercise_pearl_v1.git
 
 To run this application:
 Use databaseCreationScript (3) to create DB in MySQL. In case of change DB type or 
